@@ -1,0 +1,12 @@
+D:\C++ Projects\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+D:\C++ Projects\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+D:\C++ Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+D:\C++ Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C++ Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+D:\C++ Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.dll
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.dll
+D:\_Projects\Programming Projects\C# Projects\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb

@@ -1,0 +1,11 @@
+D:\C++ Projects\DVLD\bin\Debug\DVLD.exe.config
+D:\C++ Projects\DVLD\bin\Debug\DVLD.exe
+D:\C++ Projects\DVLD\bin\Debug\DVLD.pdb
+D:\C++ Projects\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+D:\C++ Projects\DVLD\obj\Debug\DVLD.csproj.SuggestedBindingRedirects.cache
+D:\C++ Projects\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+D:\C++ Projects\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+D:\C++ Projects\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+D:\C++ Projects\DVLD\obj\Debug\DVLD.exe
+D:\C++ Projects\DVLD\obj\Debug\DVLD.pdb
+D:\C++ Projects\DVLD\obj\Debug\DVLD.ManagePeople.resources

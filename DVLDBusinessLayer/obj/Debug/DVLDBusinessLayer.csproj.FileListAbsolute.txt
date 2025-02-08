@@ -1,0 +1,18 @@
+D:\C++ Projects\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+D:\C++ Projects\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+D:\C++ Projects\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.dll
+D:\C++ Projects\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+D:\C++ Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+D:\C++ Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+D:\C++ Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CopyComplete
+D:\C++ Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+D:\C++ Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.dll
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.dll
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CopyComplete
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.dll
+D:\_Projects\Programming Projects\C# Projects\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
