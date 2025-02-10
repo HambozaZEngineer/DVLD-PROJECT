@@ -55,13 +55,6 @@ namespace DVLD.Applications.Driving_License_Services
                 return;
             }
 
-            if (InternationalLicense.DoesLicenseExist(driverLicenseInfo1.GetLicense.LicenseID))
-            {
-                MessageBox.Show($"Person already have an active international license with the ID {driverLicenseInfo1.GetLicense.LicenseID}", "Not Allowed",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
             if (!driverLicenseInfo1.GetLicense.IsActive)
             {
                 MessageBox.Show("Renew License issue failed, because the license isn't active.", "Not Allowed",
